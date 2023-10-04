@@ -55,5 +55,5 @@ we are all engineer & developer and sports enthusiastic
 ## 🛠 Skills
 Javascript, HTML, CSS
 
-# Suggestion & queries
+## Suggestion & queries are always welcome
 brohitashsingh89@gmail.com
