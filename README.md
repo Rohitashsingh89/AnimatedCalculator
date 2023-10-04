@@ -2,10 +2,13 @@
 
 Demo: https://calculatorstack.netlify.app/
 
+# Screenshots:
+![image](https://github.com/Rohitashsingh89/AnimatedCalculator/assets/93479842/5984c985-efff-47a7-97e4-c6b08d4809ec)
+
 
 ## Authors
 
-- [@stackmern](https://www.github.com/rohitashsingh89/)
+- [@Rohitash Singh](https://www.github.com/rohitashsingh89/)
 
 
 ## Badges
